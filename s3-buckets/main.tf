@@ -19,10 +19,10 @@ resource "aws_s3_bucket_versioning" "bucket1_versioning" {
 }
 
 resource "aws_s3_bucket" "bucket2" {
-  bucket = "amit97987675"
+  bucket = "amit9798"
 
   tags = {
-    Name        = "amit97987675"
+    Name        = "amit9798"
     Environment = "dev"
   }
 }
