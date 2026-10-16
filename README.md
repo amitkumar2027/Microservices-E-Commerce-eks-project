@@ -71,8 +71,7 @@ The infrastructure and delivery workflow are automated using **Terraform, GitHub
 
 The application consists of multiple independently deployable microservices.
 
-![Microservices Architecture](docs/microservices-architecture.png)
-
+![Microservices Architecture](./images/Project%20Architecture.png)
 ### 🔹 Microservices Flow
 
 **User / Load Generator → Frontend → Backend Microservices → Data / Cache**
